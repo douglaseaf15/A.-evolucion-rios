@@ -1,2 +1,2 @@
 # A.-evolucion-rios
-Códigos relacionados à algoritmos evolucionários
+Códigos relacionados a algoritmos evolucionários
